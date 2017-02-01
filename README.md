@@ -1,4 +1,4 @@
-# keepa-github
+# amzreports.co
 Web app intended to be used for finding Amazon rankings for desired products.
 
 Using:
