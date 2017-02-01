@@ -10,4 +10,4 @@ The user uploads an excel spreadsheet with product IDs (ASINs) and gets a new fi
 Current Rank,	AVG Rank in past 30 days,	AVG Rank in past 90 days,	AVG Rank in past 180 days,	Minimum Rank and	Maximum Rank
 
 
-Example of the file with results can be found in the 'example' folder of the repository.
+Examples of the upload file and result file can be found in the 'example' folder of the repository.
