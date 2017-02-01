@@ -2,8 +2,8 @@
 Web app intended to be used for finding Amazon rankings for desired products.
 
 Using:
-Composer
-Excel API
+Composer,
+Excel API,
 Keepa API (Key required)
 
 The user uploads an excel spreadsheet with product IDs (ASINs) and gets a new file with stats about:
