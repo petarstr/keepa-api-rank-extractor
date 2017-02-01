@@ -1,0 +1,5 @@
+{
+    "require": {
+        "keepa/php_api": "^1.11"
+    }
+}
